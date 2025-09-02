@@ -1,6 +1,5 @@
 ### 👋 Nice to meet you!
-Hi! I’m a full-stack developer who turns ambiguity into shipped software — APIs, web apps, and sometimes mobile.  
-I care about clean interface contracts, pragmatic DX, and systems that scale without drama. 🚀
+Hi! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cowkite/)
 [![Email](https://img.shields.io/badge/youngsshin0917@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:youngsshin0917@gmail.com)
@@ -9,23 +8,23 @@ I care about clean interface contracts, pragmatic DX, and systems that scale wit
 
 #### 📚 학습 여정
 새로운 기술을 탐구하고 풀스택 개발 역량을 키워가는 일일 학습 기록입니다.
-<a href="https://github.com/Youngsshin/ai_x"><img src="https://img.shields.io/badge/공부일지-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
+![공부일지]<a href="https://github.com/Youngsshin/ai_x"><img src="공부일지-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 #### 🚀 첫 번째 팀 프로젝트
 팀원들과 협업하여 기획부터 개발까지 진행한 웹 애플리케이션 프로젝트입니다.
-<a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
+<a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/TEAMPROJECT[SOOM]-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 #### 👥 두 번째 팀 프로젝트  
 새로운 기술 스택으로 도전한 종합 개발 프로젝트입니다.
-<a href="https://github.com/tangerineTaste/CodeDoc"><img src="https://img.shields.io/badge/TEAMPRO[미정]-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
+<a href="https://github.com/tangerineTaste/CodeDoc"><img src="https://img.shields.io/badge/TEAMPROJECT[CODEDOC]-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 ----
 
 ### 💪 Skills
 
 #### Programming
-![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=next.js&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=next.js&logoColor=white)
+![JAVA](style=flat-square&logo=next.js&logoColor=white)
+![PYTHON](https://img.python.io/badge/python-3776AB?style=flat-square&logo=next.js&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/tensorflow-55ff55?style=flat-square&logo=next.js&logoColor=white)
 ![SKLEARN](https://img.shields.io/badge/sklearn-55ff55?style=flat-square&logo=next.js&logoColor=white)
 
