@@ -26,8 +26,8 @@
 #### Ai
 ![DeepLearning](https://img.shields.io/badge/DeepLearning(tensorflow)-F85253?style=flat-square&logo=DeepLearning&logoColor=white)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning(sklearn)-85827B?style=flat-square&logo=MachineLearning&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-55ff55?style=flat-square&logo=LLM&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-C6B59A ?style=flat-square&logo=HuggingFace&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-569CD5?style=flat-square&logo=LLM&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-C6B59A?style=flat-square&logo=HuggingFace&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-067B5A?style=flat-square&logo=Ollama&logoColor=white)
 
 #### Programming
