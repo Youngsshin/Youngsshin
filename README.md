@@ -1,12 +1,11 @@
 ### 👋 Nice to meet you!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cowkite/)
 [![Email](https://img.shields.io/badge/youngsshin0917@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:youngsshin0917@gmail.com)
 
 ----
 
-#### 📚 학습 여정
-새로운 기술을 탐구하고 풀스택 개발 역량을 키워가는 일일 학습 기록입니다.
+#### 📚 공부 일지
+새로운 기술을 공부하고 개발 역량을 키워가는 학습 기록입니다.
 
 <a href="https://github.com/Youngsshin/ai_x"><img src="https://img.shields.io/badge/공부일지-DC9597?style=flat-square&logo=logoColor=white"/></a>
 
@@ -25,17 +24,17 @@
 ### 💪 Skills
 
 #### Ai
-![DeepLearning](https://img.shields.io/badge/DeepLearning(tensorflow)-ff00ff?style=flat-square&logo=DeepLearning&logoColor=white)
-![MachineLearning](https://img.shields.io/badge/MachineLearning(sklearn)-55ff55?style=flat-square&logo=MachineLearning&logoColor=white)
+![DeepLearning](https://img.shields.io/badge/DeepLearning(tensorflow)-F85253?style=flat-square&logo=DeepLearning&logoColor=white)
+![MachineLearning](https://img.shields.io/badge/MachineLearning(sklearn)-85827B?style=flat-square&logo=MachineLearning&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-55ff55?style=flat-square&logo=LLM&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F7DF1E?style=flat-square&logo=HuggingFace&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-55ff55?style=flat-square&logo=Ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-C6B59A ?style=flat-square&logo=HuggingFace&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-067B5A?style=flat-square&logo=Ollama&logoColor=white)
 
 #### Programming
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/tensorflow-55ff55?style=flat-square&logo=tensorflow&logoColor=white)
-![SKLEARN](https://img.shields.io/badge/sklearn-55ff55?style=flat-square&logo=scikitlearn&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/tensorflow-FA960F?style=flat-square&logo=tensorflow&logoColor=white)
+![SKLEARN](https://img.shields.io/badge/sklearn-4C372D?style=flat-square&logo=scikitlearn&logoColor=white)
 
 #### DBMS
 ![ORACLE](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -50,7 +49,7 @@
 ![JQUERY](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 #### WEB programming
-![JSP](https://img.shields.io/badge/JSP-db46ca?style=flat-square&logo=JSP&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-8E74CD?style=flat-square&logo=JSP&logoColor=white)
 
 #### WEB Framework
 ![FASTAPI](https://img.shields.io/badge/fastapi-FF0000?style=flat-square&logo=fastapi&logoColor=white)
