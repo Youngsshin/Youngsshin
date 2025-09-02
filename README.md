@@ -1,5 +1,4 @@
 ### 👋 Nice to meet you!
-Hi! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cowkite/)
 [![Email](https://img.shields.io/badge/youngsshin0917@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:youngsshin0917@gmail.com)
