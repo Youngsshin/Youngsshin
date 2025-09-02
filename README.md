@@ -22,9 +22,11 @@ I’m into diving (free & scuba), swimming, band music and festivals — plus ba
 
 ### 💪 Skills
 
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+#### Programming
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=eclipse&logoColor=white)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 #### Backend & APIs
