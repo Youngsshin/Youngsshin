@@ -23,7 +23,7 @@ I’m into diving (free & scuba), swimming, band music and festivals — plus ba
 ### 💪 Skills
 
 #### Programming
-![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=eclipse&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=flat-square&logo=next.js&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
