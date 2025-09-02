@@ -1,22 +1,23 @@
-### 👋 Nice ways to reach me
+### 👋 Nice to meet you!
+Hi! I’m a full-stack developer who turns ambiguity into shipped software — APIs, web apps, and sometimes mobile.  
+I care about clean interface contracts, pragmatic DX, and systems that scale without drama. 🚀
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cowkite/)
 [![Email](https://img.shields.io/badge/youngsshin0917@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:youngsshin0917@gmail.com)
 
 ----
-Hi! I’m a full-stack developer who turns ambiguity into shipped software — APIs, web apps, and sometimes mobile.  
-I care about clean interface contracts, pragmatic DX, and systems that scale without drama. 🚀
 
-#### 🖥️ On the web side,
-I build frontends with React + TypeScript and mostly use Node.js on the backend. I design BFF layers and GraphQL APIs, and I’m comfortable with Spring.
+#### 📚 학습 여정
+새로운 기술을 탐구하고 풀스택 개발 역량을 키워가는 일일 학습 기록입니다.
+### 공부일지 <a href="https://github.com/Youngsshin/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-#### 📱 On the mobile side,
-I spent 7 years on Android (Java/Kotlin) and the last 2 years of that on iOS (Swift). I’ve shipped with Flutter and React Native, but prefer native when it matters.
+#### 🚀 첫 번째 팀 프로젝트
+팀원들과 협업하여 기획부터 개발까지 진행한 웹 애플리케이션 프로젝트입니다.
+### 1st TEAM PROJECT <a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-#### ☁️ On the infra & data side, 
-I work with Kubernetes, Docker, and Elasticsearch; use both MongoDB and SQL; and have experience with Kafka. In ops/observability and platform, I also use Nginx, Grafana, and AWS; Redis and Elasticsearch often back real-time and search workloads.
-
-#### 💚 Off the clock,
-I’m into diving (free & scuba), swimming, band music and festivals — plus baseball, books, travel — and volunteer coding whenever I can. I like building things that make life feel a little more beautiful. ✨
+#### 👥 두 번째 팀 프로젝트  
+새로운 기술 스택으로 도전한 종합 개발 프로젝트입니다.
+### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 ----
 
@@ -51,19 +52,3 @@ I’m into diving (free & scuba), swimming, band music and festivals — plus ba
 #### git
 ![GITHUB](https://img.shields.io/badge/github-181717?style=flat-square&logo=next.js&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032?style=flat-square&logo=next.js&logoColor=white)
-
-
-#### Focus & Strengths
-- API & BFF design (GraphQL), schema modeling, and clean interface contracts  
-- Performance-minded React UIs; pragmatic DX that keeps teams fast  
-- Production-ready deployments on Kubernetes with Docker
-
-# LINK
-### 공부일지 <a href="https://github.com/Youngsshin/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 1st PERSONAL PROJECT <a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-
- 
-
-
