@@ -9,15 +9,15 @@ I care about clean interface contracts, pragmatic DX, and systems that scale wit
 
 #### 📚 학습 여정
 새로운 기술을 탐구하고 풀스택 개발 역량을 키워가는 일일 학습 기록입니다.
-### 공부일지 <a href="https://github.com/Youngsshin/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Youngsshin/ai_x"><img src="https://img.shields.io/badge/공부일지-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 #### 🚀 첫 번째 팀 프로젝트
 팀원들과 협업하여 기획부터 개발까지 진행한 웹 애플리케이션 프로젝트입니다.
-### 1st TEAM PROJECT <a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/SeohuiJeong0420/crew_soom"><img src="https://img.shields.io/badge/PROJ[SOOM]-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 #### 👥 두 번째 팀 프로젝트  
 새로운 기술 스택으로 도전한 종합 개발 프로젝트입니다.
-### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/tangerineTaste/CodeDoc"><img src="https://img.shields.io/badge/TEAMPRO[미정]-333333?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 ----
 
